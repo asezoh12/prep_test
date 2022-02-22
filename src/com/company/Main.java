@@ -27,6 +27,7 @@ class Main {
         int[] arr={8,8,8,8,8};
 
         System.out.println(ArrayAddition(arr));
+        System.out.println("am facut a doua modificare");
     }
 
 }
